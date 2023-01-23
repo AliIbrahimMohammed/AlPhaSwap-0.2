@@ -1,4 +1,5 @@
 Welcome to AlPhaSwap-0.2
+
 This repository contains the code for AlPhaSwap, a decentralized exchange built on the Ethereum blockchain.
 
 Getting Started
@@ -15,7 +16,8 @@ React - A JavaScript library for building user interfaces
 Uniswap - A decentralized exchange built on the Ethereum blockchain
 Web3.js - A JavaScript library for interacting with the Ethereum blockchain
 Contributing
-If you are interested in contributing to this project, please reach out to me via email or twitter.
+If you are interested in contributing to this project, please reach out to me via email:wekaali4355@gmail.com
+ or what'sup 01025184597.
 
 Author
 Ali Ibrahim Mohammed - [GitHub](https://github.com/AliIbrahimMoh)
