@@ -1,3 +1,28 @@
+Welcome to AlPhaSwap-0.2
+This repository contains the code for AlPhaSwap, a decentralized exchange built on the Ethereum blockchain.
+
+Getting Started
+To run this project locally, you will need to have Node.js and Yarn installed on your machine.
+
+Clone this repository: git clone https://github.com/AliIbrahimMohammed/AlPhaSwap-0.2.git
+Navigate to the project directory: cd AlPhaSwap-0.2
+Install the dependencies: yarn
+Start the development server: yarn start
+This will start a local development server at http://localhost:3000. The app will automatically reload if you make changes to the code.
+
+Built With
+React - A JavaScript library for building user interfaces
+Uniswap - A decentralized exchange built on the Ethereum blockchain
+Web3.js - A JavaScript library for interacting with the Ethereum blockchain
+Contributing
+If you are interested in contributing to this project, please reach out to me via email or twitter.
+
+Author
+Ali Ibrahim Mohammed - [GitHub](https://github.com/AliIbrahimMoh)
+
+
+
+
 This project was bootstrapped with [Create Eth App](https://github.com/paulrberg/create-eth-app).
 
 ## Project Structure
